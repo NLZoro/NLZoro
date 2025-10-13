@@ -44,7 +44,7 @@ I enjoy blending problem-solving with creative tech, and I’m constantly explor
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  <span style="font-size: 18px; margin-left: 10px;">ronitgupta.dev@gmail.com</span>
+  <span style="font-size: 18px; margin-left: 10px;">ronitgupta6996@gmail.com</span>
   <br><br>
 
   <a href="https://www.linkedin.com/in/ronit-gupta-/" target="_blank">
