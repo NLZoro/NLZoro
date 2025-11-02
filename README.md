@@ -1,6 +1,6 @@
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
   <h2 style="margin: 0;">👋 Hey, I'm Ronit Gupta</h2>
-  <img [src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHZxYXdxdjA0NjYzdWkzNmhibTV5NDVxaHdyd2dhbXk0NWEyMjhzMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jx5MJyZqAFsLS/giphy.gif" height="150" alt="wave gif"](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fcristiano-ronaldo-si-gifs&psig=AOvVaw3fJTQau_3wBfpHHdr5OfVB&ust=1762179252163000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPiN47bT05ADFQAAAAAdAAAAABAK) />
+  <img https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fcristiano-ronaldo-si-gifs&psig=AOvVaw3fJTQau_3wBfpHHdr5OfVB&ust=1762179252163000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPiN47bT05ADFQAAAAAdAAAAABAK >
 </div>
 
 ---
