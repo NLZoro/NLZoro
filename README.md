@@ -5,13 +5,6 @@
 
 ---
 
-
-<div align="center">
-  <img src="https://github-readme-stats-five-ivory-93.vercel.app/api/top-langs?username=NLZoro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
-
----
-
 ### 🧠 About Me
 
 I'm **Ronit Gupta**, an **AI/ML rookie** and a **competitive coding enthusiast** with a strong foundation in algorithms and logic building.  
