@@ -37,24 +37,26 @@ I enjoy blending problem-solving with creative tech, and I’m constantly explor
 ### 🌐 Connect with Me
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  <span style="font-size: 18px; margin-left: 10px;">ronitgupta6996@gmail.com</span>
-  <br><br>
+  <!-- Gmail -->
+  <p>
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+    <span style="font-size: 18px; margin-left: 10px; ">ronitgupta6996@gmail.com</span>
+  </p>
 
-  <a href= " www.linkedin.com/in/ronie-nlzoro07 " target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  <span style="font-size: 18px; margin-left: 10px;"https:> www.linkedin.com/in/ronie-nlzoro07
+  <!-- LinkedIn -->
+  <p>
+    <a href="https://www.linkedin.com/in/ronie-nlzoro07" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+    </a>
+    <!-- <span style="font-size: 18px; margin-left: 10px;"></span> -->
+  </p>
 
-
-
-
-</span>
-  </a>
-  <br><br>
-
-  <a href="https://github.com/NLZoro" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github&logoColor=white&style=for-the-badge" height="35" />
-  </a>
+  <!-- GitHub -->
+  <p>
+    <a href="https://github.com/NLZoro" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github&logoColor=white&style=for-the-badge" height="35" />
+    </a>
+  </p>
 </div>
 
 ---
