@@ -43,7 +43,7 @@ I enjoy blending problem-solving with creative tech, and I’m constantly explor
 
   <a href="https://www.linkedin.com/in/ronit-gupta-/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  <span style="font-size: 18px; margin-left: 10px;"https://www.linkedin.com/in/ronit-gupta-0712862a1/
+  <span style="font-size: 18px; margin-left: 10px;"https:>//www.linkedin.com/in/ronit-gupta-0712862a1/
 
 
 </span>
