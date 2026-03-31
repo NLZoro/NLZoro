@@ -71,9 +71,44 @@
 
 ## ⚙️ Tech Arsenal
 
+### 🧠 Languages
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,opencv,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,html"/>
 </p>
+
+### 🤖 AI / ML
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PyTorch-DeepLearning-red?style=for-the-badge&logo=pytorch"/>
+  <img src="https://img.shields.io/badge/LangChain-AI_Framework-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Claude-AI_Model-purple?style=for-the-badge"/>
+</p>
+
+### ⚡ Frameworks & Backend
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-Backend-green?style=for-the-badge&logo=fastapi"/>
+  <img src="https://img.shields.io/badge/Streamlit-App_Framework-red?style=for-the-badge"/>
+</p>
+
+### 📊 Libraries & Data
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-Data-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NumPy-Numerics-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FastF1-F1_Data-black?style=for-the-badge"/>
+</p>
+
+### 🛠️ Tools & DevOps
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,github"/>
+  <br/>
+  <img src="https://img.shields.io/badge/n8n-Automation-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Anaconda-Env_Manager-green?style=for-the-badge"/>
+</p>
+
 
 ---
 
