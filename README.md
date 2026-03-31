@@ -1,93 +1,111 @@
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-  <h2 style="margin: 0;">👋 Hey, I'm Ronit Gupta</h2>
-  <img src="https://media.tenor.com/0yAvsHZjcBoAAAAM/cr7-football.gif" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 220px; height: 186px; margin: 0px; width: 220px;" alt="Cristiano Ronaldo Si GIFs | Tenor" jsname="kn3ccd">
-</div>
+<!-- Typing Animation -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Ronit;I+build+systems+that+think;AI+%7C+CV+%7C+Real-World+Projects;Code.+Break.+Rebuild.+Repeat." />
+</p>
 
 ---
 
-### 🧠 About Me
+<h1 align="center">⚡ Ronit Gupta</h1>
 
-I'm **Ronit Gupta**, an **AI/ML rookie** and a **competitive coding enthusiast** with a strong foundation in algorithms and logic building.  
-I enjoy blending problem-solving with creative tech, and I’m constantly exploring how intelligence can be built through code.
-
-💡 **What I Love:**
-- 🧩 Solving algorithmic challenges  
-- 🤖 Learning ML concepts hands-on  
-- 💬 Exploring AI tools and frameworks  
-- 📈 Improving myself every day — one commit at a time  
+<p align="center">
+  <b>AI-Focused Developer • System Builder • Problem Solver</b>
+</p>
 
 ---
 
-### ⚙️ Tech Stack
+## 🧠 About Me
 
-- **Languages:** C++, Python, JavaScript (beginner)  
-- **Core Skills:** Data Structures, Algorithms, Machine Learning Basics, Git & GitHub  
-- **Tools I Use:** VS Code, Jupyter, Git, Streamlit  
-
----
-
-### 🌱 Currently Exploring
-
-- AI & ML fundamentals (Regression, Classification, CNNs)  
-- Competitive programming on platforms like CodeChef and LeetCode  
-- Building consistency through small daily improvements  
+* 🎓 BTech Student (Placement Focused)
+* ⚡ Strong in **C++ & Python**
+* 🤖 Building **AI + Computer Vision systems**
+* 🚀 Fast execution using AI (but logic stays mine)
+* 🎯 Focused on **real-world usable projects**
 
 ---
 
-### 🌐 Connect with Me
+## 🚀 Projects That Matter
 
-<div align="left">
-  <!-- Gmail -->
-  <p>
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-    <span style="font-size: 18px; margin-left: 10px; ">ronitgupta6996@gmail.com</span>
-  </p>
+### ⚽ Match Prediction AI
 
-  <!-- LinkedIn -->
-  <p>
-    <a href="https://www.linkedin.com/in/ronie-nlzoro07" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-    </a>
-    <!-- <span style="font-size: 18px; margin-left: 10px;"></span> -->
-  </p>
+🔗 https://matchpredictionai-67.streamlit.app/
+![AI](https://img.shields.io/badge/AI-Model-blue?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3.x-yellow?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-Deployed-red?style=for-the-badge)
 
-  <!-- GitHub -->
-  <p>
-    <a href="https://github.com/NLZoro" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github&logoColor=white&style=for-the-badge" height="35" />
-    </a>
-  </p>
-</div>
+* Predicts **football match scores (Top 5 leagues)**
+* Uses **optimized modern data instead of bloated history**
+* Designed for **accuracy through relevance**
+
+> Most models chase data. This one chases signal.
 
 ---
 
-<div align="center">
-  <i>“Code. Learn. Repeat.”</i>
-</div>
+### 🎭 Freak Detector — Real-Time CV System
+
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-RealTime-green?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-Enabled-blue?style=for-the-badge)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-Holistic-orange?style=for-the-badge)
+
+* Real-time **face + hand gesture detection**
+* Dynamic **GIF-based interaction system**
+* Built using **MediaPipe Holistic + OpenCV**
+
+> Not just detection — interaction.
+
+---
+
+### 📚 DocSec — Full Stack Platform
+
+🔗 https://docsec.onrender.com/
+![Full Stack](https://img.shields.io/badge/FullStack-System-purple?style=for-the-badge)
+![Deployment](https://img.shields.io/badge/Deployed-Live-brightgreen?style=for-the-badge)
+
+* Complete **college management system**
+* Students + Professors workflow integration
+* Focused on **usability + productivity**
+
+> Built like a product, not a project.
+
+---
+
+## ⚙️ Tech Arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,opencv,git,github,vscode" />
+</p>
+
+---
+
+## 📊 Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NLZoro&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=NLZoro&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
 
 
+## 🎯 Current Focus
 
+* ⚡ AI-powered systems
+* 🧠 Smarter project architecture
+* 🚀 Placement-ready portfolio
 
+---
 
+## 📫 Connect
 
+<p align="center">
+  <a href="https://github.com/NLZoro">
+    <img src="https://img.shields.io/badge/GitHub-NLZoro-black?style=for-the-badge&logo=github"/>
+  </a>
+</p>
 
+---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<p align="center">
+  <b>“Code. Break. Rebuild. Repeat.”</b>
+</p>
