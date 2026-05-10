@@ -16,7 +16,7 @@
 
 ## 🧠 About Me
 
-* 🎓 BTech Student (Placement Focused)
+* 🎓 BTech Student
 * ⚡ Strong in **C++ & Python**
 * 🤖 Building **AI + Computer Vision systems**
 * 🚀 Fast execution using AI (but logic stays mine)
