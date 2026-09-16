@@ -1,147 +1,113 @@
-<!-- Typing Animation -->
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Ronit;I+build+systems+that+think;AI+%7C+CV+%7C+Real-World+Projects;Code.+Break.+Rebuild.+Repeat." />
-</p>
+# WHY DID WE BUILD THIS?
 
----
+### because someone had to.
 
-<h1 align="center">⚡ Ronit Gupta</h1>
+We make software, experiments, tools, and questionable ideas  
+that somehow become real projects.
 
-<p align="center">
-  <b>AI-Focused Developer • System Builder • Problem Solver</b>
-</p>
+<br>
 
----
+[ **EXPLORE PROJECTS** ](https://github.com/WhyDidWeBuildThis?tab=repositories)
+&nbsp;&nbsp;&nbsp;
+[ **WHAT'S NEXT →** ](https://github.com/WhyDidWeBuildThis/To-Do)
 
-## 🧠 About Me
+<br><br>
 
-* 🎓 BTech Student
-* ⚡ Strong in **C++ & Python**
-* 🤖 Building **AI + Computer Vision systems**
-* 🚀 Fast execution using AI (but logic stays mine)
-* 🎯 Focused on **real-world usable projects**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:333333&height=100&section=header" width="100%"/>
+
+</div>
 
 ---
 
-## 🚀 Projects That Matter
+## ✦ What is this?
 
-### ⚽ Match Prediction AI
+**WhyDidWeBuildThis** is a place for ideas that refuse to stay ideas.
 
-🔗 https://matchpredictionai-67.streamlit.app/
-![AI](https://img.shields.io/badge/AI-Model-blue?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3.x-yellow?style=for-the-badge)
-![Streamlit](https://img.shields.io/badge/Streamlit-Deployed-red?style=for-the-badge)
+Sometimes there's a problem worth solving.
 
-* Predicts **football match scores (Top 5 leagues)**
-* Uses **optimized modern data instead of bloated history**
-* Designed for **accuracy through relevance**
+Sometimes there's a concept we can't stop thinking about.
 
-> Most models chase data. This one chases signal.
+Sometimes we just want to find out if we can build it.
 
----
+So we build.
 
-### 🎭 Freak Detector — Real-Time CV System
+No giant roadmap.  
+No unnecessary meetings.  
+No pretending every project needs a business model.
 
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-RealTime-green?style=for-the-badge)
-![OpenCV](https://img.shields.io/badge/OpenCV-Enabled-blue?style=for-the-badge)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-Holistic-orange?style=for-the-badge)
-
-* Real-time **face + hand gesture detection**
-* Dynamic **GIF-based interaction system**
-* Built using **MediaPipe Holistic + OpenCV**
-
-> Not just detection — interaction.
+Just **good ideas, questionable ideas, and the occasional idea that turns out to be surprisingly useful.**
 
 ---
 
-### 📚 DocSec — Full Stack Platform
+## ◇ Things We've Built
 
-🔗 https://docsec.onrender.com/
-![Full Stack](https://img.shields.io/badge/FullStack-System-purple?style=for-the-badge)
-![Deployment](https://img.shields.io/badge/Deployed-Live-brightgreen?style=for-the-badge)
+A growing collection of projects, experiments, and things we thought would be cool to make.
 
-* Complete **college management system**
-* Students + Professors workflow integration
-* Focused on **usability + productivity**
+<br>
 
-> Built like a product, not a project.
+### [`WebInit`](https://github.com/WhyDidWeBuildThis/WebInit)
 
----
+**A developer-focused project that makes starting new web projects less repetitive.**
 
-## ⚙️ Tech Arsenal
+Pick a stack.
 
-### 🧠 Languages
+Run a command.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,html"/>
-</p>
+Start building.
 
-### 🤖 AI / ML
+`TYPESCRIPT` · `DEVELOPER TOOL` · `OPEN SOURCE`
 
-<p align="center">
-  <img src="https://img.shields.io/badge/PyTorch-DeepLearning-red?style=for-the-badge&logo=pytorch"/>
-  <img src="https://img.shields.io/badge/LangChain-AI_Framework-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Claude-AI_Model-purple?style=for-the-badge"/>
-</p>
+<br>
 
-### ⚡ Frameworks & Backend
-
-<p align="center">
-  <img src="https://img.shields.io/badge/FastAPI-Backend-green?style=for-the-badge&logo=fastapi"/>
-  <img src="https://img.shields.io/badge/Streamlit-App_Framework-red?style=for-the-badge"/>
-</p>
-
-### 📊 Libraries & Data
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Pandas-Data-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/NumPy-Numerics-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/FastF1-F1_Data-black?style=for-the-badge"/>
-</p>
-
-### 🛠️ Tools & DevOps
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github"/>
-  <br/>
-  <img src="https://img.shields.io/badge/n8n-Automation-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Anaconda-Env_Manager-green?style=for-the-badge"/>
-</p>
-
+> One less thing to set up.
+>
+> One more thing to build.
 
 ---
 
-## 📊 Stats & Activity
+## ⌁ What's Next?
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NLZoro&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=NLZoro&theme=tokyonight&hide_border=true"/>
-</p>
+We already have more ideas waiting in the queue.
 
----
+Some are being built.  
+Some are being planned.  
+Some are still in the **"this could actually be cool"** phase.
 
+We've put the list somewhere public:
 
-## 🎯 Current Focus
+### [`→ See what we're building next`](https://github.com/WhyDidWeBuildThis/To-Do)
 
-* ⚡ AI-powered systems
-* 🧠 Smarter project architecture
-* 🚀 Placement-ready portfolio
+That's our **living To-Do list** — projects we'll be working on, experimenting with, and hopefully shipping.
 
----
+<br>
 
-## 📫 Connect
-
-<p align="center">
-  <a href="https://github.com/NLZoro">
-    <img src="https://img.shields.io/badge/GitHub-NLZoro-black?style=for-the-badge&logo=github"/>
-  </a>
-</p>
+> The list changes.
+>
+> Ideas get added.
+>
+> Projects get crossed out.
+>
+> Occasionally, something completely unexpected appears.
 
 ---
 
-<p align="center">
-  <b>“Code. Break. Rebuild. Repeat.”</b>
-</p>
+## ◎ What We Build
 
+We don't really have a single category.
+
+That's kind of the point.
+
+```text
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│   AI & MACHINE LEARNING                             │
+│   DEVELOPER TOOLS                                   │
+│   WEB EXPERIENCES                                   │
+│   AUTOMATION                                        │
+│   COMPUTER VISION                                   │
+│   EXPERIMENTAL PROJECTS                             │
+│   RANDOM THINGS WE HAD TO BUILD                     │
+│                                                     │
+└─────────────────────────────────────────────────────┘
